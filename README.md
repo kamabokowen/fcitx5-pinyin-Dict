@@ -8,6 +8,10 @@ My self-created pinyin dictionary for Fcitx 5.
 部分词库由搜狗细胞词库转化而成。
 适用于Linux/Android的 Fcitx 5输入法（小企鹅输入法5）
 
+文件夹内txt文件为libpinyin文件，您可以直接借此预览包含的词语。
+
+dict文件为Fcitx 5使用的词库文件，您可以直接导入到您的输入法中。
+
 
 Special thanks for this repository / 特别感谢该项目：[fcitx5-android](https://github.com/fcitx5-android/fcitx5-android)
 
